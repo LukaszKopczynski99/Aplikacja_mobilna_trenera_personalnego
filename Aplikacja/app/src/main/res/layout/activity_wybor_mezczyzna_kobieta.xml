@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Wybor_mezczyzna_kobieta"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="#e8e2db">
+
+
+    <TextView
+        android:id="@+id/textView_wybor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="50dp"
+        android:gravity="center_horizontal"
+        android:text="Wybierz model treningowy"
+        android:textColor="@color/black"
+        android:textSize="50dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/Przycisk_dla_kobiet"
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/button_shape"
+        android:backgroundTint="@drawable/gradient_bck"
+        android:text="Dla Kobiet"
+        android:padding="10dp"
+
+
+        android:textColor="@color/white"
+        android:textSize="50dp" />
+
+    <Button
+        android:id="@+id/Przycisk_dla_mężczyzn"
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/button_shape"
+        android:backgroundTint="#2e36ab"
+        android:text="Dla Mężczyzn"
+        android:textColor="@color/white"
+        android:textSize="50dp" />
+
+
+
+</LinearLayout>

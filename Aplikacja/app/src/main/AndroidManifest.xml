@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="pl.kopczynski.praca_magisterska_amtp">
+
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Praca_Magisterska_AMTP"
+        tools:targetApi="31">
+        <activity
+            android:name=".MainActivity3"
+            android:exported="false" />
+        <activity
+            android:name=".Kalkulator_zapotrzebowanie_na_wode_m"
+            android:exported="false" />
+        <activity
+            android:name=".KalkulatorBMI_m"
+            android:exported="false" />
+        <activity
+            android:name=".Kalkulator_zapotrzebowanie_mezczyzni"
+            android:exported="false" />
+        <activity
+            android:name=".Suplementacja_Dla_Mezczyzn"
+            android:exported="false" />
+        <activity
+            android:name=".Dla_Mezczyzn_Diety_Przepisy"
+            android:exported="false" />
+        <activity
+            android:name=".Plan_Dla_Mezczyzn"
+            android:exported="false" />
+        <activity
+            android:name=".Dla_Mezczyzn_Dzien_treningowy"
+            android:exported="false" />
+        <activity
+            android:name=".Dla_Mezczyzn_wiadomosci"
+            android:exported="false" />
+        <activity
+            android:name=".Dla_Mezczyzn_Kalkulatory"
+            android:exported="false" />
+        <activity
+            android:name=".Dla_Mezczyzn_Suplementacja"
+            android:exported="false" />
+        <activity
+            android:name=".Dla_Mezczyzn_Diety"
+            android:exported="false" />
+        <activity
+            android:name=".Dla_Mezczyzn_Plany_Treningowe"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
+            android:name=".Suplementacja_Dla_Kobiet"
+            android:exported="false" />
+        <activity
+            android:name=".Plan_Dla_Kobiet"
+            android:exported="false" />
+        <activity
+            android:name=".Kalkulator_zapotrzebowanie_na_wode"
+            android:exported="false" />
+        <activity
+            android:name=".Kalkulator_zapotrzebowanie_kobiety"
+            android:exported="false" />
+        <activity
+            android:name=".KalkulatorBMI"
+            android:exported="false" />
+        <activity
+            android:name=".Dla_Kobiet_Diety_Zapotrzebowanie_Kaloryczne"
+            android:exported="false" />
+        <activity
+            android:name=".Dla_Kobiet_Diety_Przepisy"
+            android:exported="false" />
+        <activity
+            android:name=".Dla_Kobiet_Kalendarz"
+            android:exported="false" />
+        <activity
+            android:name=".Dla_Kobiet_Wiadomosci"
+            android:exported="false" />
+        <activity
+            android:name=".Dla_Kobiet_Kalkulatory"
+            android:exported="false" />
+        <activity
+            android:name=".Dla_Kobiet_Suplementacja"
+            android:exported="false" />
+        <activity
+            android:name=".Dla_Kobiet_Diety"
+            android:exported="false" />
+        <activity
+            android:name=".Dla_Kobiet_Plany_Treningowe"
+            android:exported="false" />
+        <activity
+            android:name=".sekcja_dla_mezczyzn"
+            android:exported="false" />
+        <activity
+            android:name=".Sekcja_dla_kobiet"
+            android:exported="false" />
+        <activity
+            android:name=".Wybor_mezczyzna_kobieta"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver android:name=".AlarmReceiver" />
+    </application>
+
+</manifest>

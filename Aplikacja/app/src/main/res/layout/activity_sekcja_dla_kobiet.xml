@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Sekcja_dla_kobiet"
+
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:orientation="vertical"
+    android:background="@drawable/gradient_bck">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:gravity="center"
+            android:text="Trener personalny dla kobiet"
+            android:textColor="@color/black"
+            android:textSize="50dp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <Button
+                android:id="@+id/przycisk_Dla_kobiet_plany_treningowe"
+                android:layout_width="0dp"
+                android:layout_height="120dp"
+                android:layout_marginTop="30dp"
+                android:layout_weight="1"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/przyciski_sekcja"
+                android:backgroundTint="#599171"
+                android:text="Plany treningowe"
+                android:textColor="@color/white"
+                android:layout_marginRight="10dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.498"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView"
+                />
+            <Button
+                android:id="@+id/przycisk_Dla_kobiet_diety"
+                android:layout_width="0dp"
+                android:layout_height="120dp"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/przyciski_sekcja"
+                android:layout_weight="1"
+                android:backgroundTint="#599171"
+                android:text="Diety"
+                android:textColor="@color/white"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.498"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <Button
+                android:id="@+id/przycisk_Dla_kobiet_suplementacja"
+                android:layout_width="0dp"
+                android:layout_height="120dp"
+                android:background="@drawable/przyciski_sekcja"
+                android:layout_weight="1"
+                android:backgroundTint="#599171"
+                android:text="Suplementacja"
+                android:layout_marginBottom="10dp"
+                android:layout_marginRight="10dp"
+                android:textColor="@color/white"
+
+                />
+            <Button
+                android:id="@+id/przycisk_Dla_kobiet_kalkulatory_sportowe"
+                android:layout_width="0dp"
+                android:layout_height="120dp"
+                android:layout_weight="1"
+                android:backgroundTint="#599171"
+                android:background="@drawable/przyciski_sekcja"
+                android:text="Kalkulatory"
+
+                android:textColor="@color/white"
+    />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <Button
+                android:id="@+id/przycisk_Dla_kobiet_wiadomości"
+                android:layout_width="0dp"
+                android:layout_height="120dp"
+                android:layout_weight="1"
+                android:backgroundTint="#599171"
+                android:background="@drawable/przyciski_sekcja"
+                android:text="Wiadomości"
+                android:layout_marginRight="10dp"
+                android:textColor="@color/white"
+
+                />
+            <Button
+                android:id="@+id/przycisk_Dla_kobiet_Kalendarz_treningowy"
+                android:layout_width="0dp"
+                android:layout_height="120dp"
+                android:layout_weight="1"
+                android:backgroundTint="#599171"
+                android:background="@drawable/przyciski_sekcja"
+                android:text="Dzień treningowy"
+                android:textColor="@color/white"
+                 />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

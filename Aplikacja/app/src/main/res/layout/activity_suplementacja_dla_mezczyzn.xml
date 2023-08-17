@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Suplementacja_Dla_Mezczyzn"
+    android:background="@drawable/gradient_bck_for_man"
+    android:orientation="vertical"
+    android:padding="4dp">
+
+    <LinearLayout
+        android:layout_width="416dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/Tekst_suplementacja_layout_m"
+            android:layout_width="413dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:text="Witaminy i minerały"
+            android:textColor="@color/black"
+            android:textSize="40dp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+
+    <ScrollView
+
+        android:id="@+id/SC_SUP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintVertical_bias="0.108">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/Suplementacja_dla_kobiet_zdjecie_m"
+                android:layout_width="wrap_content"
+                android:layout_height="300dp"
+                android:src="@drawable/krea_foto_lepsze"
+
+                />
+
+            <TextView
+                android:id="@+id/Tres_suple_dla_kobiet_m"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:text="Kreatyna: (kwas β-metyloguanidynooctowy), jest to organiczny związek chemiczny pełniący bardzo istotną rolę w przemianach energetycznych zachodzących w organizmie wszystkich kręgowców.
+                    Jest substancją endogenną, czyli może być syntetyzowana w ustroju (powstaje z aminokwasów: l-argininy, l-glicyny i l-metioniny w nerkach i wątrobie), ale zawarta jest również w pokarmach pochodzenia zwierzęcego (kreas - z greckiego znaczy mięso), stąd też weganie mają zazwyczaj niższy poziom kreatyny w tkankach niż osoby odżywiające  się tzw dietą mieszaną. Zasadnicza rola kreatyny sprowadza się do odtwarzania adenozynotrójfosforanu (ATP), czyli podstawowego wewnątrzkomórkowego nośnika energetycznego. Kreatyna zwiększa także uwodnienie komórek mięśniowych oraz zwiększać może rezerwy  magazynowanego w nich glikogenu. Ostatnio badany jest również wpływ samej kreatyny na kinazy biorące udział w syntezie białek. Odnosząc się jedynie do możliwości zastosowania w sporcie, można powiedzieć, że dzięki odpowiednim zapasom kreatyny w mięśniach,  posiadają one zwiększone rezerwy energetyczne co umożliwia nie tylko poprawę zdolności wysiłkowych, ale także nasilenie procesów regeneracyjnych i wzrostu masy mięśniowej. Kreatyna ma więc potencjał zarówno ergogeniczny jak i anaboliczny.  Jest jedną z najsilniej działających substancji używanych w celu poprawy ogólnie rozumianej formy sportowej, a jej przydatność i bezpieczeństwo stosowania zostały potwierdzone w szeregu badań naukowych. Na rynku suplementów diety kreatyna występuje zarówno w postaci  monopreparatów zawierających rozmaite jej formy (np monohydrat kreatyny, jabłaczan kreatyny, ester kreatyny i inne), jak i preparatów złożonych, które składać się mogą nie tylko z rozmaitych form samej kreatyny, ale również zawierać mogę substancje pobudzające, prekursory tlenku azotu, aminokwasy i inne..."
+                android:textColor="@color/black"
+                android:textSize="18dp"
+                android:textStyle="italic" />
+
+
+        </LinearLayout>
+
+
+
+
+    </ScrollView>
+
+
+</LinearLayout>

@@ -1,0 +1,556 @@
+<resources>
+    <string name="app_name">Praca_Magisterska_AMTP</string>
+
+
+    <string name="kobiety_klatka_piersiowa">
+
+Każdy trening rozpoczynamy oczywiście od rozgrzewki.\nW przypadki treningu klatki piersiowej polecam wykonać następującą rozgrzewkę:\nSwimmer – w leżeniu na ziemi, na brzuchu wykonujemy ramionami ruch obrotowy. Pozycja wyjściowa to proste ręce przed głową, pozycja końcowa to ramiona zaplecione
+na plecach 2 serie po 10 powtórzeń;\nWznosy ramion Y – pozycja wyjściowa taka jak przy swimmerze, ręce rozstawiamy jednak tak by tworzyły z ciałem literę Y. Unosimy wyprostowane ramiona w góręi powoli opuszczamy 2 serie po 15 powtórzeń\nPompki damskie 2 serie po 6 powtórzeń;
+Pompki przy ścianie 2 serie po 6 powtórzeń\n
+
+\n\n\nTrening właściwy:
+
+Wyciskanie sztangi na skosie dodatnim 4 serie po 12 powtórzeń;
+Wyciskanie hantli na ławce płaskiej 4 serie po 12 powtórzeń;
+Rozpiętki hantlami na skosie dodatnim 4 serie po 12 powtórzeń;
+Wyciskanie wąskie talerza obciążnikowego na ławce płaskiej 4 serie po 12 powtórzeń
+Pompki na podwyższeniu 4 serie po 12 powtórzeń.
+Trening klatki piersiowej kobiety mogą śmiało łączyć z innymi partiami, takimi jak ramiona czy brzuch. W ramach redukcji tkanki tłuszczowej mogą
+także dołączyć do treningu klatki cardio.wchodzenie po schodach, które pozytywnie wpływa na mięśnie pośladkowe. Jeśli siłownia nie dysponuje taką maszyną pozostaje zwykła bieżnia,na której można ustawić wznos imitujący wchodzenie pod górę.
+    </string>
+
+    <string name="kobiety_barki">
+
+        Military press | Wyciskanie sztangi nad głowę \nAngażuje aktony przedni i środkowy, a także mięśnie trójgłowe ramion.
+        Wyciskanie to można wykonywać zarówno w pozycji stojącej jak i siedzącej. Ta druga w pewnym stopniu zabezpiecza dolną część kręgosłupa,
+        ta pierwsza zaś wymaga dużo większej kontroli i stabilizacji. Warto ruch wyciśnięcia ciężaru powinien być szybki i dynamiczny,
+        ruch opuszczania zaś w miarę powolny. Unikać należy zbyt dużego ciężaru(a widać, że taki jest zwłaszcza wtedy gdy nie można utrzymać
+        stabilnej pozycji ciała i tułów kołysze się na wszystkie strony).\n
+
+        Wyciskanie sztangielek nad głowę\n
+        Angażuje także aktony przedni i środkowt, ale w nieco inny sposób. Jeśli wyciskamy w wąskim rozstawie ramion, 
+        chwytem młotkowym, dużo bardziej niż w tradycyjnym wyciskaniu angażujemy aktony przednie. 
+        To ćwiczenie również można wykonywać zarówno w pozycji stojącej, jak i siedzącej. Ciekawą i godną polecenia odmianą są tak zwane Arnoldki, 
+        gdzie dodajemy rotację ramion (pozycja wyjściowa – podchwyt, faza końcowa – nadchwyt). \n
+
+        Unoszenie ciężaru w przód\n
+        Unoszenia w przód, zarówno hantli jak i sztangi, potrafią doskonale zaangażować akton przedni. 
+        Tu jednak również łatwo o popełnienie klasycznego błędu, czyli doboru zbyt dużego ciężaru i bujania ciałem. 
+        Oparcie tułowia o ławkę skośną pozwala w pewnym stopniu wyizolować ruch, przez co jednak wcale nie staje się on dużo łatwiejszy – 
+        odkładamy na bok ego i dobieramy ciężar tak, by nie kaleczyć techniki. Jeśli wybieramy hantelki, można też wykonywać ruch unoszenia naprzemiennie. \n
+        
+    </string>
+
+    <string name="kobiety_plecy">
+
+        1. Ściąganie drążka wyciągu górnego do klatki piersiowej szerokim chwytem – 4 serie po 12 – 15 powtórzeń\n
+        2. Wiosłowanie hantlem w podporze o ławkę –  4 serie po 12 – 15 powtórzeń\n
+        3. Wiosłowanie sztangą – 4 serie po 12 – 15 powtórzeń\n
+        4. Przyciąganie uchwytu wyciągu do brzucha w poziomie siedząc – 4 serie po 12 – 15 powtórzeń\n
+        5. Ściąganie drążka wyciągu górnego do klatki podchwytem – 4 serie po 12 – 15 powtórzeń\n
+        6. Podciąganie na drążku podchwytem – 4 serie po 12 – 15 powtórzeń\n
+
+        Żeby obserwować ciągły postęp w budowaniu mięśni pleców, musisz zadbać o urozmaicenie.
+        Po kilku tygodniach stosowaniu programu, warto wprowadzić zmianę i wykonać dane ćwiczenie np. w 5 seriach ale po 10 – 12 powtórzeń,
+        by organizm nie przyzwyczaił się do wybranego zakresu pracy. Później możesz swoją uwagę skierować na inne ćwiczenia na plecy, unikając nudy i
+        monotonnych treningów. Ważne, by w każdodniowym zestawie uwzględnić pracę całości pleców, a nie skupiać się wyłącznie na jednej ich części.
+
+    </string>
+
+    <string name="kobiety_biceps">
+
+
+Biceps jest mięśniem małym, ale bardzo widocznym. Jest antagonistą do mięśnia trójgłowego ramienia,
+        tzw. tricepsa. Aby zapewnić ładny kształt ramienia, należy pamiętać o wykonywaniu ćwiczeń zarówno na jeden,
+        jak i drugi mięsień. Wystarczą hantle, sztanga i można wykonać bardzo dobry trening na biceps.\n\n\n
+
+Panie, którym zależy na wysmukleniu mięśnia, powinny wykonywać ćwiczenia z wykorzystaniem lżejszych hantli i większej liczby powtórzeń.
+Natomiast kobiety, którym zależy na posiadaniu mocno rozbudowanego tego mięśnia, powinny stosować większe obciążenie i wykonywać mniejszą liczbę powtórzeń.
+Z całą pewnością warto jest wykonywać trening na tę partię mięśniową, ponieważ delikatnie rozbudowany biceps wysmukla ramię –
+        a to częsty priorytet treningowy ćwiczących dziewcząt na siłowni.
+
+
+    </string>
+
+
+    <string name="kobiety_triceps">
+
+
+Ćwiczenia na triceps dla kobiet – wykop w tył z prostowaniem przedramion w opadzie tułowia\n
+Pozycja wyjściowa: chwyć sztangielki i stań na lewej nodze w lekkim pochyleniu tułowia do przodu,
+        a prawą nogę lekko ugnij w kolanie. Plecy powinny być proste. Następnie ugnij ręce w łokciach,
+        trzymając je blisko tułowia.Pozycja właściwa: wykonaj dynamiczny wykop prawej nogi w tył,
+        jednocześnie prostując do tyłu przedramiona w łokciach. Plecy powinny być proste z zachowaniem krzywizn kręgosłupa,
+        a noga podpierająca, czyli w tym wypadku lewa, lekko ugięta w kolanie. Powtórz ćwiczenie 5 razy i zmień nogę.\n\n\n
+
+Ćwiczenia na triceps dla kobiet – podpór tyłem na ławce\n
+Pozycja wyjściowa: oprzyj się rękoma tyłem na ławce. Łokcie powinny być wyprostowane, a nogi lekko zgięte i oparte piętami na podłodze.
+        Następnie wykonaj ugięcie ramion, obniżając tułów. W najniższym punkcie wstrzymaj ruch i powoli wróć do pozycji wyjściowej.
+        Powtórz ćwiczenie 5 razy.\n\n\n
+
+
+Ćwiczenia na triceps dla kobiet - „żuraw” na jednej nodze z wyprostami przedramion\n
+Pozycja wyjściowa: chwyć sztangielki, stań na lewej nodze, a następnie lekko ją ugnij. Z kolei prawą nogę wyprostuj lekko do tyłu,
+        jednocześnie pochylając tułów w przód (plecy muszą być wyprostowane). Dłonie ze sztangielkami powinny przylegać do tułowia
+        i znajdować się mniej więcej na wysokości klatki piersiowej. Następnie wyprostuj do tyłu przedramiona w łokciach i jednocześnie
+        ugnij kolano lewej nogi. Powtórz ćwiczenie 5 razy i zmień nogę.\n
+
+
+    </string>
+
+    <string name="kobiety_nogi">
+
+Przed przystąpieniem do treningu dobrze się rozgrzej.\n
+        Poniższy trening nóg angażuje mięśnie pod różnymi kątami, aby wszystkie włókna mięśniowe były odpowiednio przetrenowane.
+        Każde ćwiczenie powinno być wykonywane powoli. Zarówno ruch koncentryczny jak i ekscentryczny powinien trwać 2-3 sekundy.
+        Po treningu zaleca się 5-10 minut rozciągania i lekkiego cardio w celu schłodzenia organizmu.\n\n\n
+
+1.Super-seria: prostowanie nóg w siadzie na maszynie 4 x 15 – 20 powtórzeń + uginanie nóg w leżeniu na maszynie 4 x 15 – 20 powtórzeń\n
+2.Przysiady ze sztangą (szeroki rozstaw stóp) 10 x 10 powtórzeń\n
+3.Martwy ciąg 3 x 12, 10, 8 powtórzeń\n
+4.Wspięcia na palce siedząc na maszynie 4 x 15 powtórzeń\n
+
+    </string>
+
+    <string name="kobiety_brzuch">
+
+        Kompleksowy trening brzucha dla kobiet\n\n\n
+1. Dotykanie dłońmi palców u nóg w leżeniu\n
+2. Brzuszki na ławce skośnej ujemnej (jeśli ćwiczenie jest zbyt trudne, rozbij je na trzy serie po 10 powtórzeń)\n
+3. Unoszenie kolan w zwisie na drążku (jeśli ćwiczenie jest zbyt trudne, rozbij je na trzy serie po 10 powtórzeń lub wykonaj przyciąganie nóg do tułowia w leżeniu na podłodze)\n
+4. ”Martwy robak” – w leżeniu na plecach unosimy wyprostowane ręce do góry, unosimy również nogi zginamy pod kątek 90 stopni; następnie prostujemy jedną nogę jednak tak aby nie dotknęła podłoża; wracamy i to samo powtarzamy na druga nogę\n
+5. Russian twist – zapieramy stopy o drabinki lub sztangę, unosimy tułów do kąta około 45 stopni i wykujemy skręty raz na prawą, raz na lewą stronę\n
+
+
+    </string>
+
+    <string name="kobiety_cardio">
+
+        W przypadku treningu cardio można zastosować dowolną maszynę jaka jest dostępna na siłowni, bądź jaką dysponujemy w domu.\n
+        Istotne jest aby dostosować intensywność do swoich możliwości i nie wykonywać zbyt intensywnego treningu.\n
+        Zalecane jest 5 min przed treningiem siłowym oraz 15 min po treningu siłowym.\n
+        Czas ten może się różnić w zależności od przyjętych założeń oraz celu do jekiego dążymy.\n
+        W przypadku redukcji tkanki tłuszczowej zalecana jest dłuższa sesja na urządzeniach jednak przy tej samej intensywności.\n
+
+    </string>
+
+
+    <string name="kreatyna_opis">
+        Kreatyna: (kwas β-metyloguanidynooctowy), jest to organiczny związek chemiczny pełniący bardzo istotną rolę w przemianach
+        energetycznych zachodzących w organizmie wszystkich kręgowców.
+        Jest substancją endogenną, czyli może być syntetyzowana w ustroju (powstaje z aminokwasów: l-argininy, l-glicyny
+        i l-metioniny w nerkach i wątrobie), ale zawarta jest również w pokarmach pochodzenia zwierzęcego (kreas - z greckiego znaczy mięso),
+        stąd też weganie mają zazwyczaj niższy poziom kreatyny w tkankach niż osoby odżywiające  się tzw dietą mieszaną.
+        Zasadnicza rola kreatyny sprowadza się do odtwarzania adenozynotrójfosforanu (ATP), czyli podstawowego wewnątrzkomórkowego nośnika energetycznego.
+        Kreatyna zwiększa także uwodnienie komórek mięśniowych oraz zwiększać może rezerwy  magazynowanego w nich glikogenu.
+        Ostatnio badany jest również wpływ samej kreatyny na kinazy biorące udział w syntezie białek.
+        Odnosząc się jedynie do możliwości zastosowania w sporcie, można powiedzieć, że dzięki odpowiednim zapasom kreatyny w mięśniach,
+        posiadają one zwiększone rezerwy energetyczne co umożliwia nie tylko poprawę zdolności wysiłkowych, ale także nasilenie procesów regeneracyjnych i wzrostu masy mięśniowej.
+        Kreatyna ma więc potencjał zarówno ergogeniczny jak i anaboliczny.
+        Jest jedną z najsilniej działających substancji używanych w celu poprawy ogólnie rozumianej formy sportowej,
+        a jej przydatność i bezpieczeństwo stosowania zostały potwierdzone w szeregu badań naukowych.
+        Na rynku suplementów diety kreatyna występuje zarówno w postaci  monopreparatów zawierających rozmaite jej formy
+        (np monohydrat kreatyny, jabłaczan kreatyny, ester kreatyny i inne), jak i preparatów złożonych, które składać się mogą nie tylko z rozmaitych
+        form samej kreatyny, ale również zawierać mogę substancje pobudzające, prekursory tlenku azotu, aminokwasy i inne...
+
+    </string>
+
+    <string name="bialko_opis">
+
+        Białko (proteiny, polipeptydy) – białka należą do elementarnych składników odżywczych, są niezbędne do prawidłowego funkcjonowania organizmu oraz utrzymania życia.
+        Pod względem chemicznym są polimerami, a podstawowymi jednostkami (monomerami) są aminokwasy, które zbudowane są z atomów węgla, tlenu, azotu, wodoru oraz siarki.
+        Białka stanowią podstawowy element budulcowy organizmu – wchodzą w skład tkanek, a także hormonów i enzymów, i innych substancji aktywnych biologicznie.
+        Proteiny warunkują prawidłowy przebieg procesów metabolicznych, regulują procesy energetyczne, są niezbędne do wszelkich procesów życiowych.
+        Źródłami białka w codziennej diecie są jaja, mięso, ryby, nabiał, a także niektóe pokarmy roślinne (soja, orzechy, warzywa strączkowe).
+        Niedostateczna podaż protein prowadzi do niedożywienia białkowego, czego konsekwencją jest osłabienie organizmu,
+        zburzenie mechanizmów odpornościowych, niedokrwistość, spadek siły mięśni, zaburzenia w funkcjonowaniu układu trawiennego.
+        Nadmiar białek jest również niezdrowy – wg niektórych źródeł prowadzić może do zakwaszenia organizmu (tzw. chronic low-grade metabolic acidosis), zaburzać pracę przewodu pokarmowego,
+        a także może powodować wzrost stężenia homocysteiny we krwi.
+
+    </string>
+
+    <string name="Witaminy_opis">
+
+        Witaminy - są to organiczne związki, które ani nie stanowią źródła energii dla organizmu, ani nie są składniami strukturalnymi tkanek, ich obecność jest jednak niezbędna dla prawidłowego przebiegu wielu procesów metabolicznych i muszą być dostarczane z pożywieniem lub w postaci suplementu.\n\n
+        Wyróżniamy witaminy:\n
+        - rozpuszczalne w tłuszczach: A,E,D,K;\n
+        - witaminy rozpuszczalne w wodzie: B1, B2, B3 (niacyna), B5 (kwas pantotentowy), B6, B9 (kwas foliowy) b12, H (biotyna), C.\n
+        Witaminy rozpuszczalne w wodzie w większości nie są magazynowane w ustroju więc muszą być dostarczane codziennie. Witaminy rozpuszczalne w tłuszczach mogą kumulować się tkankach i narządach, dlatego istnieje ryzyko ich przedawkowania przy stosowaniu przez dłuższy okres czasu wysokich dawek.\n\n\n
+
+        Składniki mineralne - są to pierwiastki, które pozostają w postaci popiołu po spaleniu tkanek. Stanowią one ok 4% masy dorosłego człowieka.\n
+        Ze względu na ich zawartość w ustroju oraz dzienne zapotrzebowanie dzielimy je na:\n
+        - makroelementy - to te których zawartość w organizmie człowieka jest wwyższa niż 0,01%, zapotrzebowanie natomiast przekracza 100mg na dobę. Zaliczamy tu: sód, potas, wapń, fosfor, magnez, chlor i siarkę.\n
+        - mikroelementy - to te które występują w organizmie człowieka w ilości mniejszej niż 100g na dobę, a zapotrzebowanie na nie jest niższe niż 100mg an dobę. Zaliczamy tu: żelazo, cynk, mangan, miedź, fluor, jod, selen, chrom.\n
+        Wszystkie z w/w składników mineralnych stanowią niezbędny element diety i muszą być dostarczane z pokarmem i/lub w postaci suplementu.\n
+
+
+    </string>
+
+    <string name="Omega_opis">
+        Omega 3 (n-3)- grupa nienasyconych  kwasów tłuszczowych, u których ostatnie podwójne  wiązanie w łańcuchu węglowym umieszczone jest przy trzecim od końca atomie węgla. Stanowią istotny składnik błon komórkowych,
+        są prekursorami i wpływają na aktywność ważnych biologicznie związków - eikozanoidów . Wyróżniamy: kwas alfa linolenowy, krótkołańcuchowy kwas tłuszczowy zaliczany do NNKT (niezbędnych nienasyconych kwasów tłuszczowych,
+        które muszą być dostarczane z pokarmem), występuje dośc obficie w żywności, oraz długołańcuchowe kwasy EPA (eikozapentaenowy), DHA (dokozaheksaenowy), które występują w zasadzie jedynie w pokarmach pochodzenia morskiego,
+        głownie rybach. Mogą powstawać w procesie desaturacji i elongacji kwasu alfa-linolenowgeo w ludzkim organizmie. Konwersja ta jednak jest bardzo mało wydajna i często ograniczana przez inne czynniki żywieniowe, stąd też zaleca
+        się dostarczanie z zewnątrz zarówno krótko, jak i długołańcuchowych kwasów tłuszczowych z rodziny omega 3. Przy spożywaniu w/w ważna jest proporcja w stosunku do spożycia kwasów tłuszczowych z rodziny omega 6, która powinna mieścić
+        się w przedziale 1:6 – 1:1. Biorąc pod uwagę skład ilościowy i jakościowy tzw. diety zachodniej, raczej zachodzi potrzeba suplementacji kwasów tłuszczowych z rodziny omega 3 niż omega 6.
+        Fizjologiczna rola kwasów tłuszczowych omega 3 jest tak szeroka, że problemem jest wymienienie wszystkich korzystnych aspektów związanych z odpowiednią ich podażą.
+        Suplementy zawierające kwasy tłuszczowe z rodziny omega 3 polecane są osobom aktywnym, przede wszystkim w celu uzupełniania i zapobiegania niedoborom, ale także z uwagi na fakt, że te kwasy tłuszczowe wykazują korzystny wpływ na
+        skład ciała (wspomagają redukcję tkanki tłuszczowej), wydolność tlenową, regenerację, pracę układów: krwionośnego, oddechowego i nerwowego i funkcjonowanie aparatu ruchu. Preparaty zawierające olej rybi (EPA i DHA), znajdują zastosowanie
+        jako uzupełnienie diety we wszystkich typach wysiłku i na każdym poziomie wytrenowania, niezależnie od obranego celu. Suplementy omega 3 występują głownie w formie kapsułek, wiele z nich wzbogacone jest w witaminę E, która chroni przed ich utlenieniem.
+
+    </string>
+
+    <string name="news_1">
+        To było naprawdę mocne, sportowe uderzenie. Pod jednym dachem spotkały się gwiazdy różnych dyscyplin sportu.
+        Królowa polskiego fitnessu Ewa Chodakowska wraz ze swoimi fankami i fanami z całej Polski biła Rekord Guinnessa,
+        Mistrz KSW Mamed Khalidov i inni zawodnicy trenowali przed publicznością, Kevin Levrone udzielał porad aspirującymkulturystom,
+        Robert Korzeniowski instruował w fitness walking, a Anita Włodarczyk spotkała się z fanami. Nie zabrakło też strongmanów,
+        kulturystów i mistrzów Streetworkoutu. Te i wiele innych atrakcji czekało na odwiedzających największe w Polsce Targi Fitness
+        i Sportów Siłowych Go Active Show, które odbyły się w dniach 21-23 kwietnia, w Ptak Warsaw Expo, w warszawskim Nadarzynie.
+        <!--        http://myfitness.pl/fitness/7,107701,21832875,rekordowo-i-premierowo-najwieksze-w-polsce-targi-fitness-i.html -->
+    </string>
+
+    <string name="news_2">
+        Ćwiczenia z kettlebell to nic innego jak trening z ciężarkami.
+        Oczywiście ciężar jest inaczej rozłożony, ale efekty ćwiczeń z kettlebell są podobne –
+        poprawiamy naszą wytrzymałość, nabieramy siłę i wzmacniamy całe ciało.\n\n\n
+
+        Zanim ułożysz plan treningowy z kettlebell, warto poznać podstawowe zasady treningu z obciążeniem.
+        Dzięki temu unikniesz groźnych kontuzji, a dodatkowo zwiększysz efektywność treningu.\n\n
+
+        Warto zacząć więc od wyboru odpowiedniego ciężaru. Kettlebell zaczynają się nawet od ciężaru cztery lub sześć kilogramów.
+        To naprawdę niewiele. Każdy da radę odbyć podstawowy trening z takim obciążeniem. Jeśli chodzi o pewne normy, bardzo uśredniając,
+        kobietom o przeciętnej sile, trenerzy personalni proponują zacząć od kettlebell o wadze ośmiu kilogramów. Natomiast panowie, podobnie,
+        o przeciętnych możliwościach siłowych i wytrzymałościowych, powinni zaczynać od kettlebell o wadze 16 kg.
+        Z czasem oczywiście możemy zwiększać ten ciężar. Wszystko zależy od rozwoju naszych mięśni i sprawności fizycznej.\n\n
+
+        Następnym kluczowym elementem jest rozgrzewka i stretching. Te dwa etapy ćwiczeń są niezbędne w każdym treningu.
+        Nieważne, czy biegamy, gramy w tenisa czy praktykujemy jogę. Zawsze zaczynamy od solidnej rozgrzewki wszystkich partii mięśniowych,
+        a kończymy porządnym rozciąganiem. Trening z kettlebell niczym się więc pod tym względem nie różni. Musimy porządnie rozgrzać mięśnie,
+        a na koniec pamiętać o ich wyciszeniu i rozciągnięciu. W przypadku kettlebell sprawdzą się wszystkie ćwiczenia ogólnorozwojowe.
+        Możemy robić przysiady, krążenia bioder, wymachy rąk i nóg.\n\n
+
+        Ostatnia zasada tyczy się oddechu. Zawsze kontrolujemy oddychanie. Nabieramy powietrza podczas wymachu,
+        wydychamy podczas wypychania bioder i wyrzutów kettlebell w górę. Właściwy oddech zwiększa skuteczność ćwiczeń
+        i sprawia, że szybciej możesz dostrzec efekty kettlebells.\n
+        <!--        https://myfitness.gazeta.pl/myfitness/7,166630,25102338,kettlebell-trening-jakie-efekty-przynosza-cwiczenia-z-kettlebell.html-->
+    </string>
+
+    <string name="news_3">
+
+        Trening na czczo to jedna z bardziej kontrowersyjnych spraw w sporcie. Niektórzy są zachwyceni efektami, inni uważają,
+        że to nie ma sensu. Czy trening na czczo jest dobry? Zdecydowanie ma swoje zalety, ale nie można zapominać także o wadach.
+        Choćby o ubytku masy podczas treningu na czczo. Ile powinien trwać trening na czczo?\n\n\n
+
+
+        Poranny trening na czczo – jesteś zwolennikiem tego pomysłu czy raczej śmiertelnym przeciwnikiem?
+        Poranny trening na czczo  wzbudza dużo emocji. Dietetycy zalecają przynajmniej lekkie, małe śniadanie.
+        Trenerzy także rekomendują spożycie choć lekkostrawnego posiłku. A jednak wielu z nas ćwiczy „na głodniaka”.
+        Czy trening na czczo jest dobry? To zależy od naszych uwarunkowań i celu, który chcemy osiągnąć.\n\n\n
+
+        Trening na czczo może być dla nas dobry. Jeśli zależy nam na szybkiej utracie tkanki tłuszczowej lub  chcemy utrzymać jej dotychczasowy,
+        niski poziom. Trening na czczo sprawdzi się także u osób zabieganych, których przepełniony grafik nie przewiduje czasu na aktywność fizyczną.
+        Wystarczy w takim wypadku wstać wcześniej, pójść na siłownię czy trening biegowy.\n
+
+        Poranny trening na czczo będzie dobry także dla tych osób, które chcą szybko i skutecznie przestawić organizm na czerpanie energii z tłuszczu.
+        Ważne jednak, aby trenować na czczo cały czas monitorując swoje samopoczucie. Jeśli czujemy się osłabieni, nie wolno pod żadnym pozorem
+        „wziąć się w garść”, powtarzać sobie „dam radę, wytrzymam”. Naturalną konsekwencją treningu na czczo są zawroty głowy, osłabienie,
+        poczucie niemożności zrobienia czegokolwiek. W takim wypadku należy przerwać trening. Jeśli chcemy podejść profesjonalnie do sprawy,
+        warto wykonać podstawowe badania morfologiczne. Sprawdzimy w ten sposób, czy nasz stan zdrowia w ogóle pozwala na trening na czczo.\n
+
+        <!--https://myfitness.gazeta.pl/myfitness/7,166630,25087544,trening-na-czczo-czy-trening-na-czczo-jest-dobry-ile-powinien.html#e=RelRecImg3-->
+
+    </string>
+
+    <string name="news_4">
+    Marzysz o płaskim brzuchu? A kto nie? A może oprócz tego uprawiasz jakiś sport i zastanawiasz,
+    czy jakiś trening mógłby uzupełnić twój program. Bez względu na to, czy biegasz, ćwiczysz siłowo,
+    czy kochasz sporty ekstremalne, core stability czy inaczej ćwiczenia na stabilizację, to coś, co warto wybrać! Dlaczego?
+    Bo to coś więcej niż tylko droga do płaskiego brzucha.\n\n\n
+
+    Podczas treningu na siłowni stawiamy przede wszystkim na wyniki. Każdy z nas ma różne cele najczęściej chodzi nam
+    jednak o wygląd, siłę lub kondycję. Rzadko kiedy pamiętamy o ćwiczeniach korekcyjnych, czy tych, które poprawią naszą postawę
+    lub zredukują ból. Warto jednak poświęcić im trochę czasu i odpowiednio wzmocnić tym bardziej, że to dzięki mięśniom takim jak
+    głębokie, będziemy lepiej wyglądać ale też zaczniemy osiągać lepsze wyniki w innych dziedzinach sportu.\n
+
+        <!--    https://myfitness.gazeta.pl/myfitness/7,166737,12680975,miesnie-brzucha-wzmocnij-je-od-wewnatrz.html-->
+    </string>
+
+
+    <string name="news_5">
+
+        Jest zupełnie bez znaczenia, że metodyka treningu zmienia się co kilka lat, 10 lat to kilka epok -
+        w klubach w całej Polsce trenują dinozaury które znają głównie schematy "klatka + biceps, plecy + triceps,
+        barki + nogi + przedramię" i podobne. Co ciekawe, nawet w przypadku gdy badania naukowe i przykłady praktyczne mówią,
+        że dany trening nie jest skuteczny - jest praktykowany. Większość początkujących w klubie zaczyna trening
+        od najmniejszych partii mięśniowych w ciele (bicepsa, tricepsa, przedramienia, klatki piersiowej),
+        co gorsza używając maszyn. Po kilku tygodniach zakładają posty na forum, zaczynające się od "nie idzie" lub "ratunku",
+        a w ich treningu można spotkać m.in. takie kwiatki jak "25 serii na klatkę piersiową" lub podobną objętość ćwiczeń barki.
+        Niestety, przyrost masy mięśniowej w największej mierze zależy od treningu nóg i pleców, nie małych partii mięśniowych
+        (wyrzut hormonu wzrostu i testosteronu dotyczy głównie dominujących, najsilniejszych mięśni w ciele). Największe efekty
+        (pod każdym względem) przynoszą nie maszyny w klubach fitness, a niemal zapomniane wolne ciężary - sztanga i sztangielki.
+        Zupełnie innym zagadnieniem jest zupełne ignorowanie przez zaczynających przygodę z ćwiczeniami siłowym - diety- co także powoduje regres.\n\n\n
+
+        Jeśli dłuższy czas ćwiczyłeś systemem dzielonym, wypróbuj np. trening FBW.
+        Wbrew obiegowym opiniom wiele wariantów tego treningu nie nadaje się dla początkujących,
+        a wyłącznie dla zaawansowanych (np. modele oparte o super-serie np. wyciskanie sztangi + wiosłowanie).
+        Warte uwagi są także systemy przód/tył, góra/dół, push/pull, push/pull/legs. Każdorazowo objętość i intensywność muszą
+        być dostosowane do indywidualnych cech danej osoby.\n
+
+        <!--    https://myfitness.gazeta.pl/myfitness/7,166737,11382401,nie-daj-sie-rutynie-zmieniaj-system-treningowy.html-->
+    </string>
+
+    <string name="news_6">
+        Gdy dzień się skraca, a temperatura za oknem spada, na ulicach stopniowo zaczyna ubywać biegaczy.
+        A szkoda, bo trening na powietrzu to jedno z najlepszych sposobów na hartowanie organizmu.
+        Pod warunkiem, że jesteśmy do tego odpowiednio przygotowani. Natalia Tomasiak, reprezentantka Polski
+        w biegach górskich oraz ambasadorka marki Salomon, podpowiada, jak się ubrać na bieganie w sezonie jesienno-zimowym.\n\n\n
+
+        Zrezygnuj z grubych bluz i puchowych kurtek. Zamiast tego ubieraj się warstwowo.
+        - Możesz założyć np. lekką koszulkę, na to koszulkę termiczną, cienką bluzę oraz kurtkę przeciwwiatrową.
+        Liczbę warstw oczywiście dostosowujemy do aktualnych warunków pogodowych – mówi Natalia Tomasiak, reprezentantka
+        Polski w biegach górskich i ambasadorka marki Salomon.\n\n\n
+
+        Wiele osób zastanawia się, czy może biegać zimą w butach, których używały dotychczas.
+        Czy cienka cholewka uchroni przed zimnem i wilgocią? Czy warto kupić buty do biegania z wodoodporną membraną? To zależy.\n
+
+        - Osobiście nie jestem zwolenniczką butów z membranami. Moim zdaniem lepiej założyć cieplejszą skarpetkę
+        i zwykłe buty, aby stopy mogły lepiej „oddychać". Membrana powoduje, że nieco bardziej się w tych butach pocimy
+        – mówi Natalia Tomasiak. - Są jednak osoby, którym chłód i wilgoć znacząco przeszkadza w bieganiu. Wtedy takie obuwie
+        jest najlepszym rozwiązaniem! Tu z pełnym przekonaniem polecam Speedcorss 6 Gore-Tex.\n
+        <!--        https://myfitness.gazeta.pl/myfitness/7,166676,29282571,bieganie-zima-jak-sie-odpowiednio-ubrac.html#e=RelRecImg1-->
+    </string>
+
+    <string name="news_7">
+        Zmęczenie, rodzinne obowiązki - wszyscy dobrze wiemy, że po pracy dużo trudniej
+        jest się zmotywować do treningu. Dlatego spróbuj dzień rozpocząć od aktywności!
+        Trening nie musi być intensywny. Wystarczy poranna sesja jogi, 15-20 minut ćwiczeń
+        wzmacniających lub jogging na powietrzu. To doda Ci energii na cały dzień i podbije przemianę materii.
+        Taki trening możesz wykonywać na czczo lub po lekkiej przekąsce.\n\n\n
+
+        Gdy tylko masz możliwość, spróbuj wracać do domu spacerem lub biegiem.
+        Od pracy dzieli Cię zbyt duża liczba kilometrów? Jeśli przemieszczasz się komunikacją miejską,
+        wysiądź kilka przystanków wcześniej i pokonaj pozostałą odległość pieszo. Szybko przekonasz się,
+        że zmęczenie po całym dniu pracy minie, a wręcz nabierzesz energii do realizacji kolejnych, zaplanowanych działań.\n\n
+
+        Dobrym pomysłem jest też całkowita rezygnacja z samochodu lub komunikacji miejskiej na rzecz roweru.
+        Jeśli odległość, którą musisz pokonać, nie jest duża, a dodatkowo masz w pracy dostęp do prysznica,
+        długo się nie zastanawiaj. To też fajny sposób na odkrywanie swojego miasta. Rzuć sobie wyzwanie, że np.
+        przez tydzień codziennie będziesz jechać nieco inną trasą. To ciekawe, bardzo odświeżająca dla głowy forma aktywności!\n
+        <!--        https://myfitness.gazeta.pl/myfitness/7,166676,28733627,jak-znalezc-czas-na-aktywnosc-5-skutecznych-sposobow.html#e=RelRecImg5-->
+    </string>
+
+    <string name="news_8">
+
+        W zeszłym roku na biegowej mapie Poznania pojawił się nowy, wyjątkowy bieg na 5km.
+        "Lekka Piątka" poprowadzona jest częściowo po stadionie lekkoatletycznym, a częściowo
+        po parkowych alejach, co daje trasę nie tylko bardzo przyjemną, ale i piekielnie szybką!
+        Będzie można się z nią zmierzyć już 25 września na poznańskim Golęcinie! Dlaczego to najprzyjemniejsza
+        "piątka" w Poznaniu i jakie inne atrakcje czekają na biegaczy? Sprawdź!\n\n\n
+
+        „Lekka Piątka" rozgrywana jest w ramach imprezy „1MILA – mityng lekki i atletyczny"
+        – największej stadionowej imprezy biegowej dla amatorów. Odbędzie się w niedzielę,
+        25 września 2022 r. na stadionie POSiR Golęcin i na terenach wokół Jeziora Rusałka.\n\n\n
+
+
+        - Cieszę się, że na imprezie „1MILA – mityng lekki i atletyczny" pojawił się bieg na 5km.
+        Z treningu do biegu na 1 milę (1609m) można znakomicie pobiec 5km i odwrotnie. Trening do
+        „piątki" świetnie przygotowuje do mili. Te dwa dystanse świetnie ze sobą współgrają! – mówi
+        Marcin Lewandowski, najbardziej utytułowany polski średniodystansowiec, Ambasador 1MILI.
+        Wielu uczestników decyduje się zresztą na start na obu tych dystansach! Program zawodów ułożony
+        jest w taki sposób, by dało się wziąć udział we wszystkich zaplanowanych konkurencjach. Poza porannym biegiem 5km,
+        będzie można wystartować także na 1 Milę (1609m - w randze Amatorskich Mistrzostw Poznania w biegu na milę), rywalizować
+        drużynowo w Sztafetach 4x400m, a najmłodsi biegacze w bezpłatnych Biegach Dzieci (100m, 400m i 800m). Marcin Lewandowski
+        będzie obecny przez cały czas trwania imprezy. Każdy będzie mógł spytać Mistrza o taktyczne rady, a także wciąć udział
+        w profesjonalnej, lekkoatletycznej rozgrzewce.\n
+        <!--        https://myfitness.gazeta.pl/myfitness/7,166676,28855015,najprzyjemniejsze-i-najszybsze-5km-w-poznaniu.html#e=RelRecImg3-->
+    </string>
+
+
+    <string name="mezczyzni_klatka">
+
+        1.Wyciskanie ze sztangą w leżeniu na ławce w pozycji poziomej\n
+        Ruch polega na opuszczeniu, a następnie wyciśnięciu, czyli wyprostowaniu rąk i dźwignięciu
+        obciążonej sztangi w pozycji leżącej. Zaangażowane są mięśnie klatki piersiowej (głównie piersiowy większy),
+        ale także tricepsy, mięśnie naramienne, a jako stabilizatory także mięśnie grzbietu.\n
+        Chociaż technika ruchu nie jest skomplikowana, jednak aby właściwie zaangażować mięśnie,
+        trzeba wykonywać ćwiczenie precyzyjnie. Szczególnie należy unikać mostkowania, czyli unoszenia odcinka lędźwiowego.
+        Tym sposobem pomagają sobie czasem ciężarowcy, kiedy biją rekordy w wyciskaniu.
+        Jeśli jednak ćwiczenie ma przynosić efekty, a nie rekordy, dbajmy o technikę.
+        Nieznacznie zwiększanie rozstawu dłoni umieszczonych na gryfie sztangi ponad standardowy rozstaw na
+        szerokość barków aktywizuje środkową część mięśnia piersiowego.\n\n\n
+
+        2.Pompki na poręczach\n
+        Popularnością to ćwiczenie nie dorównuje wyciskaniu na ławce. A szkoda, bo prawidłowo wykonane,
+        jest niezwykle skuteczne. Ruch polega na obniżeniu i uniesieniu ciała opartego na poręczach
+        poprzez zgięcie i wyprost w stawach łokciowych i ramiennych. Brzmi identycznie jak w przypadku pompek na triceps?
+        I na tym polega problem. Jeżeli chcemy aktywizować mięśnie piersiowe, dłonie powinny być oparte nieco szerzej
+        niż na szerokość barków, łokcie lekko skierowane na zewnątrz, a tułów lekko pochylony.\n
+        Podczas ruchu musimy zachować właściwą pozycję. Częstym błędem jest „zapadanie się w ramionach”,
+        czyli zbytnie chowanie głowy. Najczęściej taki błąd robimy pod koniec serii, kiedy brakuje nam siły.
+        Inny błąd to bujanie ciałem, niestabilna pozycja i wykonywanie ćwiczenia w niepełnym zakresie ruchu,
+        tylko do kąta prostego w stawie łokciowym. Tego typu błędy spowodują, że będziemy zmęczeni,
+        ale całą pracę raczej wykonają mięśnie ramion niż klatki piersiowej. Dlatego ćwiczenie
+        to jest przeznaczone dla osób mających już pewne doświadczenie treningowe i właściwe czucie mięśniowe.\n\n\n
+
+        3.Wyciskanie hantli w pozycji leżącej na ławce (poziomej lub skośnej)\n
+        Ćwiczenie dobre i dla początkujących, i dla zaawansowanych. Świetnie pozwala wyczuć mięśnie
+        i możliwy zakres ruchu (jest on większy niż w przypadku użycia sztangi). Można je wykonywać jednostronnie,
+        co pozwala wyeliminować dysproporcje w budowie mięśnia piersiowego lub stopniowo wrócić do ćwiczeń po kontuzji.
+        W zależności od ułożenia dłoni (nachwyt, ułożenie młotkowe) czy rozstawu dłoni podczas ruchu można nieco inaczej aktywizować mięsień.\n
+
+    </string>
+
+    <string name="mezczyzni_barki">
+
+        1. Wyciskanie sztangi nad głowę\n
+        Mięśnie zaangażowane w ćwiczenie:\n\n
+
+        mięśnie naramienne (głównie cześć przednia i boczna),\n
+        mięśnie trójgłowe ramion,\n
+        mięśnie piersiowe większe (cześć obojczykowa).n\
+        Opis ćwiczenia:\n\n\n
+
+        1.W pozycji siedzącej lub stojącej grzbiet wyprostowany.n\
+        2.Jeżeli wykonujemy ćwiczenie stojąc – mięśnie pośladkowe spięte, stopy całe przy podłożu rozstawione na szerokości barków.n\
+        3.Wykonując ćwiczenie siedząc – oparcie ławki ustawiamy pod kątem 90 stopni, łopatki i pośladki dotykają oparcia.n\
+        4.W obu przypadkach sztangę trzymamy nachwytem (chwyt zamknięty), szerokość chwytu powinna być delikatnie szersza
+        niż rozstaw barków osoby ćwiczącej, łokcie delikatnie wysunięte w przód (patrząc na pozycję z boku łokcie powinny być wysunięte lekko poza boczną oś ciała).n\
+        5.Ruch rozpoczynamy gdy sztanga przylega do klatki piersiowej. Wykonując mocny wydech wypychamy sztangę nad głowę, przy czym unikamy w końcowej fazie przeprostów w stawach łokciowych. Ćwiczenie to możemy wykonywać również siedząc na maszynie Smitha.n\
+        6.Wdech wykonujemy podczas opuszczania sztangi do klatki piersiowej (ruch ekscentryczny). Wydech wykonujemy podczas wypychania sztangi nad głowę (ruch koncentryczny).n\
+
+
+        2.Unoszenie ramion z hantlami na boki siedząc\n
+
+        Mięśnie zaangażowane:\n
+
+        mięśnie naramienne (głównie część środkowa),\n
+        mięśnie czworoboczne,\n
+        mięśnie ramienne.\n
+        Opis ćwiczenia:\n\n\n
+        W pozycji stojącej lekki rozkrok – stopy cale na podłożu. Grzbiet wyprostowany, łopatki ściągnięte, lekkie ugięcie w stawach łokciowych, hantle trzymane nachwytem.\n
+        W pozycji wyjściowej hantle trzymamy przed sobą, następnie dynamicznym ruchem unosimy je do góry – tor ramion powinien przebiegać po bocznej osi ciała. Prawidłowe wykonanie techniki charakteryzuje się wyżej uniesionymi łokciami od dłoni i rotacja dłoni, których kciuki przechylone są w stronę podłoża. Pozycję stojącą może wzmocnić spięcie mięśni pośladkowych.\n
+        *Możemy również to ćwiczenie wykonać przy użyciu maszyny, dzięki temu tor ruchu ramion będzie ustalony – przez co bardziej izolowany. Linki wyciągów należy skrzyżować – jeżeli mamy do dyspozycji maszyny FreeMotion krzyżowanie linek nie będzie potrzebne.\n
+        Wdech wykonujemy podczas opuszczania hantli/*uchwytów (ruch ekscentryczny). Wydech wykonujemy podczas dynamicznego unoszenia ramion (ruch koncentryczny).\n\n\n
+
+    </string>
+
+    <string name="mezczyzni_plecy">
+
+        1.Podciąganie na drążku – jak robić ćwiczenia na plecy?\n\n\n
+        1.Drążek łapiemy nachwytem, chwyt zamknięty, w zwisie nogi opadają luźno lub są splątane, uchwyt szerszy niż szerokość stawów barkowych,
+        tor ruchu łokci prowadzony powinien być wzdłuż tułowia, klatka piersiowa wypięta.\n
+        2.Ruch doprowadzamy w fazie koncentrycznej (przy podciąganiu) tak, by broda znalazła się na
+        wysokości drążka. Ćwiczenie to można wykonywać bez obciążenia lub dociążając się hantlem trzymanym między udami
+        lub za pomocą specjalnego pasa, do którego doczepia się obciążenie.\n\n\n
+        Istnieją również możliwość wykonywania tego ćwiczenia na maszynach, które imitują ruch podciągania lub pomagają w nim.
+        Podciąganie na drążku jest wspaniałym ćwiczeniem rozbudowującym mięśnie grzbietu, jednak jest bardzo wymagające.\n
+
+        Wdech wykonujemy opuszczając ciężar ciała, prostując przedramiona (ruch ekscentryczny).
+        Wydech- wykonujemy przyciągając ciężar ciała do drążka, uginając przedramiona (ruch koncentryczny).\n
+
+
+    </string>
+
+    <string name="mezczyzni_biceps">
+
+        1.Trening bicepsa – Uginanie sztangi z gryfem prostym stojąc\n\n\n
+        W pozycji wyjściowej stajemy w lekkim rozkroku i złap sztangę podchwytem.
+        Rozpoczynamy zginanie ramienia z wydechem w stronę klatki piersiowej. Opuszczając sztangę bierzemy wdech i prostujemy ramię rozciągając biceps.\n
+        Dużą zaletą gryfu prostego jest większa rotacja i bardziej efektywna praca jeśli chodzi o
+        mięsień dwugłowy ramienia, ale wiele osób może narzekać na ból w nadgarstku.\n
+
+        2.Ćwiczenie na biceps w domu – Odwrotne pompki\n\n\n
+        Co jeżeli nie możemy wykonać ćwiczeń z dodatkowym obciążeniem i nie możemy wykorzystać drążka do ćwiczeń?
+        W tej sytuacji pomogą nam jedynie dwa krzesła w celu wykonania ćwiczenia na biceps w domu.\n
+        Chwytamy krzesła na środku tak, aby zawisnąć w powietrzu. Rozpoczynamy uginanie przedramion angażując mięsień dwugłowy ramienia.\n
+
+        3.Mięśnie bicepsa – Uginanie ramion chwytem młotkowym\n\n\n
+        To ćwiczenie z hantlami wykonujemy w pozycji stojącej.
+        Możesz wykonać to ćwiczenie siedząc jeśli chcesz wyłączyć pracę innych mięśni. W ten sposób maksymalnie wyizolujesz biceps.\n
+        Łapiemy hantle chwytem neutralnym, czyli kciukiem skierowanym do góry. Możesz wykonywać to ćwiczenie oburącz lub na przemian.\n
+
+    </string>
+
+    <string name="mezczyzni_triceps">
+        1.Jak wykonać dipy na poręczach?\n\n\n
+        1.Chwyć poręcze urządzenia chwytem zamkniętym.\n
+        2.Przejdź do wykonania pozycji początkowej w podporze na poręczach, klatka piersiowa wyeksponowana nogi ugięte i splecione.\n
+        3.Wykonaj powolny ruch ekscentryczny, czyli ugięcie przedramion, starając się utrzymać łokcie
+        jak najbliżej siebie oraz wykonać opuszczenie w dół jak najbardziej w pionie (nie pochylaj się do przodu).\n
+        4.Następnie wykonaj dynamiczny ruch koncentryczny, czyli wyprost przedramion.\n
+        5.Podczas ruchu koncentrycznego wykonaj wydech, a podczas ruchu ekscentrycznego wdechrycznego wdech.\n
+
+        2.Skull crushers – jak wykonać?\n\n\n
+        1.Chwytamy drążek nachwytem na szerokość barków i prostujemy łokcie;\n
+        2.Cofamy ciało w tył, tak aby opierać się o drążek, będzie nam tym ciężej im niżej zeszliśmy w dół;\n
+        3.Nasza głowa znajduje się ponad ramionami, napinamy mięśnie brzucha, pośladków oraz ściągamy łopatki;\n
+        4.Z tej pozycji naszym zadaniem jest poprzez ugięcie łokci przenieść głowę pod drążek;\n
+        5.Tor ruchu wyznaczają łokcie, które powinny w jak najmniejszym stopniu rozchodzić się na boki;\n
+        6.Po zakończeniu ruchu wracamy do pozycji wyjściowej, przez cały czas zachowując napięcie mięśniowe.\n
+    </string>
+
+    <string name="mezczyzni_nogi">
+
+        Do wykonania ćwiczeń na nogi w zupełności wystarczy sztanga/obciążony kij i hantle/butelki z wodą.
+        Ważne, aby była jakakolwiek możliwość regulacji ciężaru.
+        Plan treningowy w domu nastawiony na nogi nie musi znacząco różnić się od tego wykonywanego na siłowni.\n
+
+        Przykładowy plan ćwiczeń do wykonania w domu:\n\n\n
+
+        1.Przysiad ze sztangą 4 serie po 15 powtórzeń\n
+        2.Martwy ciąg na prostych nogach z hantlami 4 serie po 15 powtórzeń\n
+        3.Przysiad bułgarski 3 serie po 12 powtórzeń na nogę\n
+        4.Glute bridge 4 serie po 15 powtórzeń\n
+        5.Wykroki 3 serie po 12 powtórzeń na nogę\n
+        6.Wspięcia na palce 4 serie po 20 powtórzeń\n
+
+    </string>
+
+    <string name="mezczyzni_brzuch">
+
+        Ćwiczenia na mięśnie brzucha dla mężczyzn – brzuszki z obciążeniem\n
+        Brzuszki to jedno z najbardziej popularnych ćwiczeń na mięśnie brzucha wykonywane przez mężczyzn.
+        Istnieje wiele rodzajów tego ćwiczenia, natomiast najbardziej efektywnym jest wykonywanie brzuszków
+        z obciążeniem. Ćwiczenie to wykonujemy w pozycji leżącej na plecach, stopy układamy płasko na ziemi,
+        a kolana zginamy pod kątem około 90 stopni. Na klatce piersiowej trzymamy obciążenie, pamiętając,
+        że im będzie ono większe, tym cięższą pracę będą wykonywać nasze mięśnie brzucha. W takiej pozycji rozpoczynamy wykonywanie skłonów, pamiętając,
+        aby nasz tułów wraz z obciążeniem był podnoszony mięśniami brzucha, a od podłoża odrywamy tylko łopatki, wykonując wydech podczas wykonywania skłonu.
+        W jednej serii należy wykonać od 10 do 20 powtórzeń.\n\n\n
+
+        Ćwiczenia na mięśnie brzucha dla mężczyzn – scyzoryk boczny\n
+        Kolejnym ćwiczeniem na mięśnie brzucha dla mężczyzn, który będziesz wykonywać w serii,
+        jest scyzoryk boczny. Pozycją wyjściową dla tego ćwiczenia jest pozycja leżąca na boku podparta
+        na przedramieniu jednej ręki. Kostki wraz z kolanami unosimy delikatnie ku górze, a wolnym łokciem
+        wykonujemy skłon boczny w kierunku biodra. Po wykonaniu od 10 do 15 powtórzeń zmieniamy stronę,
+        wykonując analogicznie powyższy ruch na drugim boku.\n\n\n
+
+
+    </string>
+
+    <string name="mezczyzni_cardio">
+        W przypadku treningu cardio można zastosować dowolną maszynę jaka jest dostępna na siłowni, bądź jaką dysponujemy w domu.\n
+        Istotne jest aby dostosować intensywność do swoich możliwości i nie wykonywać zbyt intensywnego treningu.\n
+        Zalecane jest 5 min przed treningiem siłowym oraz 15 min po treningu siłowym.\n
+        Czas ten może się różnić w zależności od przyjętych założeń oraz celu do jekiego dążymy.\n
+        W przypadku redukcji tkanki tłuszczowej zalecana jest dłuższa sesja na urządzeniach jednak przy tej samej intensywności.\n
+    </string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2"
+    android:padding="6dp"
+    android:background="@drawable/gradient_bck"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="416dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/Tytul_wiadomosci_layout"
+            android:layout_width="413dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:text="Rekordowo i premierowo. Największe w Polsce Targi Fitness i Sportów Siłowych\n Go Active Show 2017 "
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+
+    <ScrollView
+
+        android:id="@+id/SC_SUP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintVertical_bias="0.108">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:layout_width="wrap_content"
+                android:layout_height="300dp"
+                android:src="@drawable/zdjecie_wiadomosci_targi"
+                android:id="@+id/Wiadomosci_dla_kobiet_zdjecie"
+
+                />
+
+            <TextView
+                android:id="@+id/Tresc_wiadomosci_dla_kobiet_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:text="To było naprawdę mocne, sportowe uderzenie. Pod jednym dachem spotkały się gwiazdy różnych dyscyplin sportu. Królowa polskiego fitnessu Ewa Chodakowska wraz ze swoimi fankami i fanami z całej Polski biła Rekord Guinnessa, Mistrz KSW Mamed Khalidov i inni zawodnicy trenowali przed publicznością, Kevin Levrone udzielał porad aspirującymkulturystom, Robert Korzeniowski instruował w fitness walking, a Anita Włodarczyk spotkała się z fanami. Nie zabrakło też strongmanów, kulturystów i mistrzów Streetworkoutu. Te i wiele innych atrakcji czekało na odwiedzających największe w Polsce Targi Fitness i Sportów Siłowych Go Active Show, które odbyły się w dniach 21-23 kwietnia, w Ptak Warsaw Expo, w warszawskim Nadarzynie."
+                android:textColor="@color/black"
+                android:textSize="18dp"
+               />
+
+
+        </LinearLayout>
+
+
+
+
+    </ScrollView>
+
+
+
+</LinearLayout>

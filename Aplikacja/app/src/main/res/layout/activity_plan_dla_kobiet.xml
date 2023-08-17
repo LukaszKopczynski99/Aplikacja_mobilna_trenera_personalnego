@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Plan_Dla_Kobiet"
+    android:background="@drawable/gradient_bck"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+
+    <TextView
+        android:id="@+id/T_Plan_dla_kobiet_rodzaj_treningu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="72dp"
+        android:text="Klatka piersiowa"
+        android:textColor="@color/black"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:layout_gravity="center"/>
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        app:layout_constraintTop_toBottomOf="@+id/T_Plan_dla_kobiet_rodzaj_treningu"
+
+        >
+
+        <TextView
+            android:id="@+id/Tresc_Plan_dla_kobiet_rodzaj_treningu"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:text="Każdy trening rozpoczynamy oczywiście od rozgrzewki.\nW przypadki treningu klatki piersiowej polecam wykonać następującą rozgrzewkę:\nSwimmer – w leżeniu na ziemi, na brzuchu wykonujemy ramionami ruch obrotowy. Pozycja wyjściowa to proste ręce przed głową, pozycja końcowa to ramiona zaplecione
+na plecach 2 serie po 10 powtórzeń;\nWznosy ramion Y – pozycja wyjściowa taka jak przy swimmerze, ręce rozstawiamy jednak tak by tworzyły z ciałem literę Y. Unosimy wyprostowane ramiona w górę
+ i powoli opuszczamy 2 serie po 15 powtórzeń\nPompki damskie 2 serie po 6 powtórzeń;
+Pompki przy ścianie 2 serie po 6 powtórzeń\n
+
+
+
+
+\n\n\nTrening właściwy:
+
+Wyciskanie sztangi na skosie dodatnim 4 serie po 12 powtórzeń;
+Wyciskanie hantli na ławce płaskiej 4 serie po 12 powtórzeń;
+Rozpiętki hantlami na skosie dodatnim 4 serie po 12 powtórzeń;
+Wyciskanie wąskie talerza obciążnikowego na ławce płaskiej 4 serie po 12 powtórzeń
+Pompki na podwyższeniu 4 serie po 12 powtórzeń.
+Trening klatki piersiowej kobiety mogą śmiało łączyć z innymi partiami, takimi jak ramiona czy brzuch. W ramach redukcji tkanki tłuszczowej mogą
+także dołączyć do treningu klatki cardio.
+ wchodzenie po schodach, które pozytywnie wpływa na mięśnie pośladkowe. Jeśli siłownia nie dysponuje taką maszyną pozostaje zwykła bieżnia,
+  na której można ustawić wznos imitujący wchodzenie pod górę."
+            android:textColor="@color/black"
+            android:textSize="18dp"
+            android:textStyle="italic" />
+
+
+    </ScrollView>
+
+
+</LinearLayout>
